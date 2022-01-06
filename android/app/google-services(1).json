@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448971054073",
+    "firebase_url": "https://flushfood-4b7af-default-rtdb.firebaseio.com",
+    "project_id": "flushfood-4b7af",
+    "storage_bucket": "flushfood-4b7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448971054073:android:fc14282e4fcda2a0e53b28",
+        "android_client_info": {
+          "package_name": "com.example.flushfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448971054073-pdc8ljtp6ggolkeadaam6tiq0vc32tf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhVU8MVKR8-5dYwBSTlyuBT6QnGBytayc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448971054073-pdc8ljtp6ggolkeadaam6tiq0vc32tf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
